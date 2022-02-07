@@ -1,9 +1,13 @@
-# 果汁简历
+# David Lee
 
-## 编写简历技巧
-[如何写好技术简历 —— 实例、模板及工具](item.md)  
-[简历模板](简历模板.md)
+## Home
+![](https://user-images.githubusercontent.com/47686371/152751653-98d7a9bd-7757-4681-b7c9-b2d62e575d51.png)
 
-## 求职文集
 
-## 招聘文集
+## Resume
+
+## Research experience
+
+## Tips
+
+## Contact
