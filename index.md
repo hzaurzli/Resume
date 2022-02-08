@@ -4,12 +4,12 @@
 </div>
 <br>
 
-<div align=left>
-  <p>
-     <font size=4><a style='font-weight:bold'>Chinese name: </a><font><font size=3>李润泽(Run-ze Li)</font>
-  <p>
-    <font size=4><a style='font-weight:bold'>English name: </a></font><font size=3>David Li</font>
-<br>
+* **Chinese name:** 李润泽(Run-ze Li)
+
+* **English name:** David Li
+
+* **Interest:** A data worker who is interested in Machine learning , NGS , Mathematical model and Database.
+
     
 ## Home
     
@@ -32,7 +32,7 @@
 <br>
 
 ## Resume
-###Education
+### Education
   * 第一项
   * 第二项
   * 第三项
