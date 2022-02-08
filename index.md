@@ -7,11 +7,8 @@
 <div align=left>
   <p>
      <font size=5><a style='font-weight:bold'>Chinese name: </a><font><font size=3>李润泽(Run-ze Li)</font>
-  </p>
   <p>
     <font size=5><a style='font-weight:bold'>English name: </a></font><font size=3>David Li</font>
-  </p> 
-</div>
 <br>
     
 ## Home
