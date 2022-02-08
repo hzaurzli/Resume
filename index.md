@@ -1,10 +1,22 @@
 # David Lee
-
-## Home
 <div align=center>
 <img src="https://user-images.githubusercontent.com/47686371/152751653-98d7a9bd-7757-4681-b7c9-b2d62e575d51.png">
 </div>
 <br>
+
+<div align=left>
+  <div>
+     <font size=5><a style='font-weight:bold'>Chinese name: </a><font><font size=3>李润泽(Run-ze Li)</font>
+  </div>
+  <br>
+  <div>
+    <font size=5><a style='font-weight:bold'>English name: </a></font><font size=3>David Li</font>
+  </div> 
+</div>
+
+
+## Home
+
 
 <font size=3>
   <p>
