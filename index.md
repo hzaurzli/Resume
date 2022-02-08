@@ -6,11 +6,14 @@
 </div>
 <br>
 
-<font size=15>
+
 
   I am a master student in the [College of Life Science and Technology](http://lst.hzau.edu.cn/) in [Huazhong Agricultural University](http://www.hzau.edu.cn/) and the major is genomics,which is a major in biological data analysis. I am interested in Applied Mathematics and Statistics,especially for applying mathematical theory to biology.When I am undergraduate,I have minored some related courses in applied statistics 
-  
-</font>
+
+<p>
+  <font size=150>aaa</font>
+</p>
+
 
 
 ## Resume
