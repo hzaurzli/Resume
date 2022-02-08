@@ -14,7 +14,7 @@
     Before I got my master's degree,I have some programming skills(R,Python and maybe a little C++) and use machine learning models to analyze biological data(R:mlr,glmnet etc;Python:scikit-learn,sklearn,pytorch etc).I also participate in building biological database(flask + jquery or vue).I like to take notes while reading literature,recording the logic or principle of the article.It was a lot of fun in my learning process. Sometimes I will share my learning records or good ideas in the <a href='https://www.jianshu.com/u/ecfc4115cd90'>Jianshu</a>(Welcome to discuss with me 😉)
   </p>
   <p>
-     I am better at analyzing NGS data,during the analysis I can combine some mathematical models in the analysis data, the purpose is to better mine the biological story,if results are solid, I prefer to develop biological software for more researchers to use. At last, I share a slogan with all guys(but it is in Chinese): "學問求切實,思辨求翔實"
+     I am better at analyzing NGS data,during the analysis I can combine some mathematical models in the analysis data, the purpose is to better mine the biological story,if results are solid, I prefer to develop biological software for more researchers to use. At last, I share a slogan with all guys(but it is in Chinese): "學問求切實,思辨求翔實".
   </p>
 </font>
 
