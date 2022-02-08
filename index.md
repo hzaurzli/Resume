@@ -12,10 +12,10 @@
 
     
 ## Home
-    
 <div align=center>
   <img src="https://user-images.githubusercontent.com/47686371/152751653-98d7a9bd-7757-4681-b7c9-b2d62e575d51.png">
 </div>
+<br>
 
 <font size=3>
   <p>
@@ -28,9 +28,6 @@
      I am better at analyzing NGS data,during the analysis I can combine some mathematical models in the analysis data, the purpose is to better mine the biological story,if results are solid, I prefer to develop biological software for more researchers to use. At last, I share a slogan with all guys(but it is in Chinese): "學問求切實,思辨求翔實".
   </p>
 </font>
-
-<br>
-
 ## Resume
 ### Education
   * 第一项
