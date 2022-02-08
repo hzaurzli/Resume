@@ -30,9 +30,31 @@
 </font>
 ## Resume
 ### Education
-  * 第一项
-  * 第二项
-  * 第三项
+
+  * 2019 ~ 2022, Master Degree,College of Life Science and Technology, Huazhong Agricultural University. ***Thesis:*** 
+  
+  * 2015 ~ 2019, B.S Bioengineering, College of Life Science and Technology, Huazhong Agricultural University. ***Thesis:*** 
+
+### Publication
++ a
++ d
++ d
+
+### Grant
++ a
++ d
++ d
+
+### Presentation
++ a
++ d
++ d
+
+### Academic community
++ a
++ d
++ d
+
   
 
 ## Research experience
