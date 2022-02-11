@@ -42,6 +42,7 @@
 + 陈振夏,陈露,**李润泽**,程奇伟,涂懿璇等,[甾体类化合物或其药学上可接受的盐在促进鱼类的性反转中的应用](item_1.md),中国, 专利号:2018113026690 **(patent)**
 
 **Grant**
+
 + 2015-2016 Outstanding Learning Award(During B.S)
 + 2016-2017 Outstanding Learning Award(During B.S)
 + 2017-2018 Outstanding Learning Award(During B.S)
@@ -50,11 +51,13 @@
 + 2021-2022 Scholarship(Second prize,During the Master)
 
 **Presentation**
+
 + 2018. [International Symposium on Animal Genomics](http://lst.hzau.edu.cn/info/1190/4550.htm) (In group talk,***Thesis:*** )
 + 2019. [Animal Genome and Epigenome Evolution Forum](https://www.sohu.com/a/341272766_739387) (In group talk,***Thesis:*** )
 + 2021. HZAU Information College Annual Meeting (Poster,***Thesis:*** )
 
 **Academic community(club)**
+
 + Club: play with R **Translation：**
 + Club: play with R **Translation：**
 + Club: play with R **Translation：**
