@@ -7,7 +7,8 @@
 <font size=3>
   <p>
     
-    **Summary：** As a model organism, zebrafish has mastered the technology of reversing its sex, which brings a lot of convenience to the research on the mechanism of zebrafish
+    <font size=4>Summary:</font> As a model organism, zebrafish has mastered the technology of reversing its sex, which brings a lot of convenience to the research on the
+    mechanism of zebrafish
     sex determination. Mastering this technology provides certain technical means for molecular biology and cytology related research. Our female zebrafish gender inversion
     technology solves the technical problems related to female to male, and solves the problems of long time, difficult to obtain drugs and high cost of artificial synthesis.
     Our proprietary use of exemestane for sex inversion in adult female zebrafish has the following advantages over the aforementioned Fadrozole female zebrafish sex inversion
