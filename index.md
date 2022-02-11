@@ -32,13 +32,14 @@
 
 **Education**
 
-  * 2019 ~ 2022, Master Degree Genomics, College of Life Science and Technology, Huazhong Agricultural University. ***Thesis:*** 
+  + 2019 ~ 2022, Master Degree Genomics, College of Life Science and Technology, Huazhong Agricultural University. ***Thesis:*** 
   
-  * 2015 ~ 2019, B.S Bioengineering, College of Life Science and Technology, Huazhong Agricultural University. ***Thesis:*** 
+  + 2015 ~ 2019, B.S Bioengineering, College of Life Science and Technology, Huazhong Agricultural University. ***Thesis:*** 
 
 **Publication**
 
 + Lu Chen,Li Wang,Qiwei Cheng,Yi-Xuan Tu,Zhuang Yang,**Run-Ze Li**,Zhi-Hui Luo.[Anti-masculinization induced by aromatase inhibitors in adult female zebrafish](item_2.md), BMC Genomics,21,22(2020).
+
 + 陈振夏,陈露,**李润泽**,程奇伟,涂懿璇等,[甾体类化合物或其药学上可接受的盐在促进鱼类的性反转中的应用](item_1.md),中国, 专利号:2018113026690 **(patent)**
 
 **Grant**
@@ -54,7 +55,7 @@
 
 + 2018. [International Symposium on Animal Genomics](http://lst.hzau.edu.cn/info/1190/4550.htm) (In group talk,***Thesis:*** )
 + 2019. [Animal Genome and Epigenome Evolution Forum](https://www.sohu.com/a/341272766_739387) (In group talk,***Thesis:*** )
-+ 2021. HZAU Information College Annual Meeting (Poster,***Thesis:*** )
++ 2021. HZAU Information College Annual Meeting (Poster,***Thesis: [Using the deep learning model to truly predict the dynamic G4 structures](item_3.md)*** )
 
 **Academic community(club)**
 
