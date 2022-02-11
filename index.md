@@ -53,9 +53,9 @@
 
 **Presentation**
 
-+ 2018. [International Symposium on Animal Genomics](http://lst.hzau.edu.cn/info/1190/4550.htm) (In group talk,***Thesis:*** )
-+ 2019. [Animal Genome and Epigenome Evolution Forum](https://www.sohu.com/a/341272766_739387) (In group talk,***Thesis:*** )
-+ 2021. HZAU Information College Annual Meeting (Poster,***Thesis: [Using the deep learning model to truly predict the dynamic G4 structures](item_3.md)*** )
++ 2018, [International Symposium on Animal Genomics](http://lst.hzau.edu.cn/info/1190/4550.htm) (In group talk,***Thesis:*** )
++ 2019, [Animal Genome and Epigenome Evolution Forum](https://www.sohu.com/a/341272766_739387) (In group talk,***Thesis:*** )
++ 2021, HZAU Information College Annual Meeting (Poster,***Thesis: [Using the deep learning model to truly predict the dynamic G4 structures](item_3.md)*** )
 
 **Academic community(club)**
 
