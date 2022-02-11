@@ -60,9 +60,9 @@ torsion reversal model***
 
 **Academic community(club)**
 
-+ Club: play with R **Translation：**
-+ Club: play with R **Translation：**
-+ Club: play with R **Translation：**
++ Club: play with R **Translation：R and statistic**
++ Club: play with R **Translation：R and meta analysis**
++ Club: play with R **Translation：R and structural equation**
 + StatQuest for 2 courses'translation (Video,Josh Starmer)
 + Some bioinformatics club's activities(haha,met a lot of friends)
 + [Jianshu](https://www.jianshu.com/u/ecfc4115cd90) Creator
@@ -88,6 +88,13 @@ Accurate prediction of G4 from a multi-omics perspective based on Bert framework
 In this project, I am responsible for the construction of the database website, and the analysis content is completed by other colleagues. the repositories is [Devogene](https://github.com/hzaurzli/ddglnc)
 
 ## Tips
+
+**1. About bioinformatic**
+
+**2. About statistic**
+
+**3. About programming**
+
 
 ## Contact
 ***If you wanna connect me or discuss with me, here are some basic informations:***
