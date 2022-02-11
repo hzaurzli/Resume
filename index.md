@@ -32,17 +32,17 @@
 
 **Education**
 
-  * 2019 ~ 2022, Master Degree,College of Life Science and Technology, Huazhong Agricultural University. ***Thesis:*** 
+  * 2019 ~ 2022, Master Degree Genomics, College of Life Science and Technology, Huazhong Agricultural University. ***Thesis:*** 
   
   * 2015 ~ 2019, B.S Bioengineering, College of Life Science and Technology, Huazhong Agricultural University. ***Thesis:*** 
 
 **Publication**
-+ a
-+ d
-+ d
+
++ Lu Chen,Li Wang,Qiwei Cheng,Yi-Xuan Tu,Zhuang Yang,**Run-Ze Li**,Zhi-Hui Luo.Anti-masculinization induced by aromatase inhibitors in adult female zebrafish, BMC Genomics,21, 22(2020).
++ 陈振夏,陈露,李润泽,程奇伟,涂懿璇等,[甾体类化合物或其药学上可接受的盐在促进鱼类的性反转中的应用](),中国, 专利号:2018113026690 **(patent)**
 
 **Grant**
-+ a
++ 
 + d
 + d
 
