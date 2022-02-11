@@ -32,9 +32,10 @@
 
 **Education**
 
-  + 2019 ~ 2022, Master Degree Genomics, College of Life Science and Technology, Huazhong Agriculture University. ***Thesis:*** 
+  + 2019 ~ 2022, Master Degree Genomics, College of Life Science and Technology, Huazhong Agriculture University. ***Thesis: Establishment of a male zebrafish female 
+torsion reversal model*** 
   
-  + 2015 ~ 2019, B.S Bioengineering, College of Life Science and Technology, Huazhong Agriculture University. ***Thesis:*** 
+  + 2015 ~ 2019, B.S Bioengineering, College of Life Science and Technology, Huazhong Agriculture University. ***Thesis: *** 
 
 **Publication**
 
@@ -53,8 +54,8 @@
 
 **Presentation**
 
-+ 2018, [International Symposium on Animal Genomics](http://lst.hzau.edu.cn/info/1190/4550.htm) (In group talk,***Thesis:*** )
-+ 2019, [Animal Genome and Epigenome Evolution Forum](https://www.sohu.com/a/341272766_739387) (In group talk,***Thesis:*** )
++ 2018, [International Symposium on Animal Genomics](http://lst.hzau.edu.cn/info/1190/4550.htm) (In group talk,***Thesis: How to build a zebrafish sex reversal model*** )
++ 2019, [Animal Genome and Epigenome Evolution Forum](https://www.sohu.com/a/341272766_739387) (In group talk,***Thesis:Transcriptomic analysis of early sex development in zebrafish*** )
 + 2021, HZAU Information College Annual Meeting (Poster,***Thesis: [Using the deep learning model to truly predict the dynamic G4 structures](item_3.md)*** )
 
 **Academic community(club)**
