@@ -6,6 +6,7 @@
 
 <font size=3>
   <p>
+    
     **Summary：** As a model organism, zebrafish has mastered the technology of reversing its sex, which brings a lot of convenience to the research on the mechanism of zebrafish
     sex determination. Mastering this technology provides certain technical means for molecular biology and cytology related research. Our female zebrafish gender inversion
     technology solves the technical problems related to female to male, and solves the problems of long time, difficult to obtain drugs and high cost of artificial synthesis.
@@ -16,6 +17,7 @@
     administration method, and the phenomenon of sexual reversal can occur in 3 months, which is 2 months earlier than 5 months, which solves the time-consuming problem to a
     certain extent. 4. After sex reversal, female-to-male zebrafish can mate and fertilize with wild-type female zebrafish. 5. This technology can make male and female zebrafish
     fertilize and lay eggs without drug withdrawal.
+    
   </p>
 </font>
 
