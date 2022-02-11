@@ -64,27 +64,38 @@
 + Club: play with R **Translation：**
 + StatQuest for 2 courses'translation (Video,Josh Starmer)
 + Some bioinformatics club's activities(haha,met a lot of friends)
++ [Jianshu](https://www.jianshu.com/u/ecfc4115cd90) Creator
 
   
 ## Research experience
 ![](https://user-images.githubusercontent.com/47686371/153610012-797929c9-3e6f-425d-8a4d-6e2b85bdaa5a.jpg)
 
-**Construction of a zebrafish sex reversal model**
+**1.Construction of a zebrafish sex reversal model**
 
 The main purpose of this study was to construct a model of sex reversal with the aim of studying sex development in zebrafish,and [patent](item_1.md) pending for related technology.
 
-**Multi-omics analysis of sex development in zebrafish**
+**2.Multi-omics analysis of sex development in zebrafish**
 
 Multi-omics study based on zebrafish sex reversal model,this part is used as my master thesis ,Cooperation tutor: [@yhsun](http://people.ucas.ac.cn/~yhsun)
 
-**BertG4 development**
+**3.BertG4 development**
 
 Accurate prediction of G4 from a multi-omics perspective based on Bert framework,Cooperation tutor: [@wenzhang](http://coi.hzau.edu.cn/info/1162/4523.htm) and the repositories is [BertG4](https://github.com/hzaurzli/BertG4)
 
-**Build Devogene Database**
+**4.Build Devogene Database**
 
 In this project, I am responsible for the construction of the database website, and the analysis content is completed by other colleagues. the repositories is [Devogene](https://github.com/hzaurzli/ddglnc)
 
 ## Tips
 
 ## Contact
+***If you wanna connect me or discuss with me, here are some basic informations:***
+
++ E-mail: yun_act@163.com or small.runze@gmail.com
++ Github: [Github address](https://github.com/hzaurzli/)
++ Twitter: [Twitter address](https://twitter.com/lirz96208886)
++ Ins: [ins address](https://www.instagram.com/small.runze/?hl=en)
++ Jianshu: [Link](https://www.jianshu.com/u/ecfc4115cd90)
++ Yuque: [Link](https://www.yuque.com/u1629231/qd3xf6)
+
+
