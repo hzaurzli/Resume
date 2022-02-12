@@ -32,7 +32,7 @@
 
 **Education**
 
-  + 2019 ~ 2022, Master Degree Genomics, College of Life Science and Technology, Huazhong Agriculture University. ***Thesis: *** 
+  + 2019 ~ 2022, Master Degree Genomics, College of Life Science and Technology, Huazhong Agriculture University. ***Thesis:*** 
   
   + 2015 ~ 2019, B.S Bioengineering, College of Life Science and Technology, Huazhong Agriculture University. ***Thesis: Establishment of a male zebrafish female 
 torsion reversal model*** 
