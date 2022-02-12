@@ -77,7 +77,7 @@ The main purpose of this study was to construct a model of sex reversal with the
 
 **2.Multi-omics analysis of sex development in zebrafish**
 
-Multi-omics study based on zebrafish sex reversal model,this part is used as my master thesis ,Cooperation tutor: [@yhsun](http://people.ucas.ac.cn/~yhsun)
+Multi-omics study based on zebrafish sex reversal model,this part is used as my master thesis ,The repositories is [here](https://github.com/hzaurzli/Aquatic-institute),but it's private, Cooperation tutor: [@yhsun](http://people.ucas.ac.cn/~yhsun)
 
 **3.BertG4 development**
 
@@ -85,7 +85,7 @@ Accurate prediction of G4 from a multi-omics perspective based on Bert framework
 
 **4.Build Devogene Database**
 
-In this project, I am responsible for the construction of the database website, and the analysis content is completed by other colleagues. the repositories is [Devogene](https://github.com/hzaurzli/ddglnc)
+In this project, I am responsible for the construction of the database website, and the analysis content is completed by other colleagues. The repositories is [Devogene](https://github.com/hzaurzli/ddglnc)
 
 ## Tips
 
