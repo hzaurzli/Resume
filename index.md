@@ -1,6 +1,6 @@
 # David Li
 <div align=center>
-  <img src="https://user-images.githubusercontent.com/47686371/152751653-98d7a9bd-7757-4681-b7c9-b2d62e575d51.png">
+  <img src="https://user-images.githubusercontent.com/47686371/153701311-09176a3f-73b6-496c-8f50-ea3c6035afaf.png">
 </div>
 <br>
 
@@ -13,7 +13,7 @@
     
 ## Home
 <div align=center>
-  <img src="https://user-images.githubusercontent.com/47686371/152751653-98d7a9bd-7757-4681-b7c9-b2d62e575d51.png">
+  <img src="https://user-images.githubusercontent.com/47686371/153701898-2d759572-b052-4121-94c0-535cc6986675.jpg" width="600px" height="700px">
 </div>
 <br>
 
@@ -52,6 +52,8 @@ torsion reversal model***
 + 2019-2020 Scholarship(First prize,During the Master)
 + 2020-2021 Scholarship(Third prize,During the Master)
 + 2021-2022 Scholarship(Second prize,During the Master)
+
+Haha!!! Most of the prize money goes to study and travel funds
 
 **Presentation**
 
