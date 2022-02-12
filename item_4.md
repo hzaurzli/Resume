@@ -5,4 +5,4 @@
 </div>
 <br>
 
-HaHa! I participated in the translation and editing of some chapters of the book, and edited the book together with the members.
+HaHa! I participated in the translation and editing of some chapters of the book, and edited the book together with the members. Welcome everyone to discuss with a heavy R language enthusiast (me)
