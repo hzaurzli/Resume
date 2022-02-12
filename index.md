@@ -61,7 +61,7 @@ torsion reversal model***
 **Academic community(club)**
 
 + Club: play with R **Translation：R and statistic**
-+ Club: play with R **Translation：R and meta analysis**
++ Club: play with R **Translation：[R and meta analysis](item_4.md)**
 + Club: play with R **Translation：R and structural equation**
 + StatQuest for 2 courses'translation (Video,Josh Starmer)
 + Some bioinformatics club's activities(haha,met a lot of friends)
