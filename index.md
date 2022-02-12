@@ -28,6 +28,7 @@
      I am better at analyzing NGS data,during the analysis I can combine some mathematical models in the analysis data, the purpose is to better mine the biological story,if results are solid, I prefer to develop biological software for more researchers to use. At last, I share a slogan with all guys(but it is in Chinese): "學問求切實,思辨求翔實".
   </p>
 </font>
+
 ## Resume
 
 **Education**
@@ -55,12 +56,12 @@ torsion reversal model***
 **Presentation**
 
 + 2018, [International Symposium on Animal Genomics](http://lst.hzau.edu.cn/info/1190/4550.htm) (In group talk,***Thesis: How to build a zebrafish sex reversal model*** )
-+ 2019, [Animal Genome and Epigenome Evolution Forum](https://www.sohu.com/a/341272766_739387) (In group talk,***Thesis:Transcriptomic analysis of early sex development in zebrafish*** )
++ 2019, [Animal Genome and Epigenome Evolution Forum](https://www.sohu.com/a/341272766_739387) (In group talk,***Thesis:Transcriptomic analysis of early sex development in zebrafish***)
 + 2021, HZAU Information College Annual Meeting (Poster,***Thesis: [Using the deep learning model to truly predict the dynamic G4 structures](item_3.md)*** )
 
 **Academic community(club)**
 
-+ Club: play with R **Translation：R and statistic**
++ Club: play with R **Translation：Discovering statistics using R**
 + Club: play with R **Translation：[R and meta analysis](item_4.md)**
 + Club: play with R **Translation：R and structural equation**
 + StatQuest for 2 courses'translation (Video,Josh Starmer)
@@ -70,6 +71,7 @@ torsion reversal model***
   
 ## Research experience
 ![](https://user-images.githubusercontent.com/47686371/153610012-797929c9-3e6f-425d-8a4d-6e2b85bdaa5a.jpg)
+
 
 **1.Construction of a zebrafish sex reversal model**
 
@@ -87,13 +89,38 @@ Accurate prediction of G4 from a multi-omics perspective based on Bert framework
 
 In this project, I am responsible for the construction of the database website, and the analysis content is completed by other colleagues. The repositories is [Devogene](https://github.com/hzaurzli/ddglnc)
 
+
 ## Tips
+
+***I share most of them in [Jianshu page](https://www.jianshu.com/u/ecfc4115cd90) 😉 !!!***
 
 **1. About bioinformatic**
 
+If you wanna study bioinformatic by yourself here are some books and some videos:
+
+* **BOOKS:** 《Encyclopedia of Bioinformatics and Computational Biology》
+
+* **BOOKS:** 《生物信息学》 樊龙江
+  
+* **BOOKS:** [Basic Edition](https://lulab2.gitbook.io/teaching/) or [Enhanced version](https://lulab1.gitbook.io/teaching/)
+
+* **VEDIOS:** [Xiaole Shirley Liu's course](https://links.jianshu.com/go?to=https%3A%2F%2Fcanvas.harvard.edu%2Fcourses%2F49497)
+
+
 **2. About statistic**
 
+* **BOOKS:** 《Practical Statistics for Data Scientists》
+
+* **BOOKS:** 《Discovering statistics using R》
+
+* Hence, if you wanna learn more about statistic models or how to use programming language to take statistic, please read more source codes.
+
+
 **3. About programming**
+
+* **R BOOKS:** 《advanced R》
+
+* **PYTHON BOOKS:**  《Automate the Boring Stuff with Python: Practical Programming for Total Beginners》
 
 
 ## Contact
