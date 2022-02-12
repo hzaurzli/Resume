@@ -128,8 +128,8 @@ If you wanna study bioinformatic by yourself here are some books and some videos
 
 + E-mail: yun_act@163.com or small.runze@gmail.com
 + Github: [Github address](https://github.com/hzaurzli/)
-+ Twitter: [Twitter address](https://twitter.com/lirz96208886)
-+ Ins: [ins address](https://www.instagram.com/small.runze/?hl=en)
++ Twitter: [Twitter address](https://twitter.com/lirz96208886) -> Sharing some papers that I am interested in
++ Ins: [Ins address](https://www.instagram.com/small.runze/?hl=en)
 + Jianshu: [Link](https://www.jianshu.com/u/ecfc4115cd90)
 + Yuque: [Link](https://www.yuque.com/u1629231/qd3xf6)
 
