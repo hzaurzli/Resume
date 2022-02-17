@@ -67,7 +67,7 @@ Haha!!! Most of the prize money goes to study and travel funds
 + Club: play with R **Translation：[R and meta analysis](item_4.md)**
 + Club: play with R **Translation：R and structural equation**
 + StatQuest for 2 courses'translation (Video,Josh Starmer)
-+ [Bioinformatics Training Course in HZAU](https://www.sohu.com/a/322033336_120120841)
++ [Bioinformatics Training Course in HZAU](http://lst.hzau.edu.cn/info/1072/2597.htm)
 + Some bioinformatics club's activities(haha,met a lot of friends)
 + [Jianshu](https://www.jianshu.com/u/ecfc4115cd90) Creator
 
