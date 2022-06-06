@@ -70,6 +70,7 @@ Haha!!! Most of the prize money goes to study and travel funds
 + [Bioinformatics Training Course in HZAU](http://lst.hzau.edu.cn/info/1072/2597.htm)
 + Some bioinformatics club's activities(haha,met a lot of friends)
 + [Jianshu](https://www.jianshu.com/u/ecfc4115cd90) Creator
++ **[Chinese Society of Optimization, Overall Planning and Economic Mathematics — Professional Committee Mathematical Modeling and Algorithms](http://www.scope.org.cn/)**.[Organization member](item_5.md)
 
   
 ## Research experience
