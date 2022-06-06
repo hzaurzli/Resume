@@ -13,7 +13,7 @@
     
 ## Home
 <div align=center>
-  <img src="./fig.jpg">
+  <img src="./fig.jpg" height='600px'>
 </div>
 <br>
 
