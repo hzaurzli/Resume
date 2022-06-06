@@ -13,7 +13,7 @@
     
 ## Home
 <div align=center>
-  <img src="https://user-images.githubusercontent.com/47686371/153701898-2d759572-b052-4121-94c0-535cc6986675.jpg" width="300px" height="400px">
+  <img src="./fig.jpg" width="300px" height="400px">
 </div>
 <br>
 
