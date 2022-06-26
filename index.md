@@ -42,6 +42,8 @@ torsion reversal model***
 
 + Lu Chen,Li Wang,Qiwei Cheng,Yi-Xuan Tu,Zhuang Yang,**Run-Ze Li**,Zhi-Hui Luo.[Anti-masculinization induced by aromatase inhibitors in adult female zebrafish](item_2.md), BMC Genomics,21,22(2020).
 
++ Involvement of ovary-biased developmentally dynamic lncRNA genes in reducing sexual plasticity of adult zebrafish,Lu Chen; Ru Zhang; Yi-Xuan Tu; Ying-Jie Geng; Run-Ze Li; Shan-Shan Yu; Zhuang Yang; Sheng Hu Qian; Jing-Min Zhang; Yonghua Sun; Zhen-Xia Chen(Co-first author, in press, Genome biology)
+
 + 陈振夏,陈露,**李润泽**,程奇伟,涂懿璇等,[甾体类化合物或其药学上可接受的盐在促进鱼类的性反转中的应用](item_1.md),中国, 专利号:201811302669.0 **(patent)**
 
 **Grant**
