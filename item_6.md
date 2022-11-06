@@ -1,4 +1,4 @@
-# Professional Committee Mathematical Modeling and Algorithms
+# ArecaceaeMDB database
 
 <div align=center>
   <img src="![](https://user-images.githubusercontent.com/47686371/200176716-b16306d6-3e27-42a2-a78b-7927c21408b7.png)">
