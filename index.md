@@ -33,7 +33,11 @@
 
 **Education**
 
-  + 2019 ~ 2022, Master Degree Genomics(Test-free recommended) College of Life Science and Technology, Huazhong Agricultural University. ***Thesis:*** 
+  + 2022 ~ Now, PhD(Successive postgraduate and doctoral programs of study), College of Biomedicine and Health, Huazhong Agricultural University.
+  
+  + 2022.6 ~ 2022.9, Visiting scholar, Collaborate with: [@HuanFan](http://fanhuan.github.io/), XTBG(XiShuangBanNa Tropical Botanical Garden).
+
+  + 2019 ~ 2022, Research assistant, College of Life Science and Technology, Huazhong Agricultural University. ***Bioinformatics*** 
   
   + 2015 ~ 2019, B.S Bioengineering, College of Life Science and Technology, Huazhong Agricultural University. ***Thesis: Establishment of a male zebrafish female 
 torsion reversal model*** 
@@ -42,7 +46,9 @@ torsion reversal model***
 
 + Lu Chen,Li Wang,Qiwei Cheng,Yi-Xuan Tu,Zhuang Yang,**Run-Ze Li**,Zhi-Hui Luo.[Anti-masculinization induced by aromatase inhibitors in adult female zebrafish](item_2.md), BMC Genomics,21,22(2020).
 
-+ Involvement of ovary-biased developmentally dynamic lncRNA genes in reducing sexual plasticity of adult zebrafish,Lu Chen; Ru Zhang; Yi-Xuan Tu; Ying-Jie Geng; Run-Ze Li; Shan-Shan Yu; Zhuang Yang; Sheng Hu Qian; Jing-Min Zhang; Yonghua Sun; Zhen-Xia Chen(Co-first author, in press, Genome biology)
++ Zhuang Yang,Zhenhuan Liu,Hang Xu,Yufei Li,Sishu Huang,Guangping Cao,Mengwei Shi,Jinjin Zhu,Junjie Zhou,**Runze Li**,Yuanhao Ding,Yong Xiao,Xianqing Liu,Alisdair R. Fernie,Jie Luo. [ArecaceaeMDB: a comprehensive multi-omics database for Arecaceae breeding and functional genomics studies](item_6.md), Plant Biotechnology Journal(2022).
+
++ Involvement of ovary-biased developmentally dynamic lncRNA genes in reducing sexual plasticity of adult zebrafish,Lu Chen; Ru Zhang; Yi-Xuan Tu; Ying-Jie Geng; Run-Ze Li; Shan-Shan Yu; Zhuang Yang; Sheng Hu Qian; Jing-Min Zhang; Yonghua Sun; Zhen-Xia Chen(in press, Genome biology)
 
 + 陈振夏,陈露,**李润泽**,程奇伟,涂懿璇等,[甾体类化合物或其药学上可接受的盐在促进鱼类的性反转中的应用](item_1.md),中国, 专利号:201811302669.0 **(patent)**
 
