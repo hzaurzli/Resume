@@ -1,7 +1,7 @@
 # ArecaceaeMDB database
 
 <div align=center>
-  <img src="![](https://user-images.githubusercontent.com/47686371/200176716-b16306d6-3e27-42a2-a78b-7927c21408b7.png)">
+  <img src="https://user-images.githubusercontent.com/47686371/200176909-ab04e564-2623-4c73-af87-eb195a493a23.png">
 </div>
 <br>
 
