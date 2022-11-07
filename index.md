@@ -57,9 +57,9 @@ torsion reversal model***
 + 2015-2016 Outstanding Learning Award(During B.S)
 + 2016-2017 Outstanding Learning Award(During B.S)
 + 2017-2018 Outstanding Learning Award(During B.S)
-+ 2019-2020 Scholarship(First prize,During the Master)
-+ 2020-2021 Scholarship(Third prize,During the Master)
-+ 2021-2022 Scholarship(Second prize,During the Master)
++ 2019-2020 Scholarship(First prize)
++ 2020-2021 Scholarship(Third prize)
++ 2021-2022 Scholarship(Second prize)
 
 Haha!!! Most of the prize money goes to study and travel funds
 
