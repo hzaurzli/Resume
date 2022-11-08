@@ -13,7 +13,7 @@
     
 ## Home
 <div align=center>
-  <img src="./fig.jpg" height='500px' width='300px'>
+  <img src="./person.jpg" height='500px' width='300px'>
 </div>
 <br>
 
@@ -33,7 +33,7 @@
 
 **Education**
 
-  + 2022 ~ Now, PhD(Successive postgraduate and doctoral programs of study), College of Biomedicine and Health, Huazhong Agricultural University.
+  + 2022 ~ Now, PhD candidate (Successive postgraduate and doctoral programs of study), College of Biomedicine and Health, Huazhong Agricultural University.
   
   + 2022.6 ~ 2022.9, Visiting scholar, Collaborate with: [@HuanFan](http://fanhuan.github.io/), XTBG(XiShuangBanNa Tropical Botanical Garden).
 
