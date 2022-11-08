@@ -13,7 +13,7 @@
     
 ## Home
 <div align=center>
-  <img src="./person.jpg" height='500px' width='300px'>
+  <img src="./person.jpg" height='500px' width='400px'>
 </div>
 <br>
 
