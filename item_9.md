@@ -1,4 +1,4 @@
-# Article
+# Software literature
 <div align=center>
   <img src="https://github.com/hzaurzli/Resume/assets/47686371/ded85bd5-ad4b-446e-b4ce-75ee1a97add7">
 </div>
