@@ -19,13 +19,13 @@
 
 <font size=3>
   <p>
-    I am a master student in the <a href='http://lst.hzau.edu.cn/'>College of Life Science and Technology</a> in <a href='http://www.hzau.edu.cn/'>Huazhong Agricultural University</a> and the major is genomics,which is a major in biological data analysis. I am interested in Applied Mathematics and Statistics,especially for applying mathematical theory to biology.When I am undergraduate,I have minored some related courses in applied statistics and developed a keen interest in how to apply mathematical models to biology.During the master degree, in first two years I worked in zebrafish and once analyzed NGS data(mainly RNA-seq,scRNA-seq).In last year my main job is to develop biology software,which is predicting dynamic G4 structure(G quadruplex).
+    I am a PhD student in the <a href='http://lst.hzau.edu.cn/'>College of Life Science and Technology</a> in <a href='http://www.hzau.edu.cn/'>Huazhong Agricultural University</a> and the major is genomics,which is a major in biological data analysis. I am interested in Applied Mathematics and Statistics,especially for applying mathematical theory to biology.When I am undergraduate,I have minored some related courses in applied statistics and developed a keen interest in how to apply mathematical models to biology.During the master degree, in first two years I worked in zebrafish and once analyzed NGS data(mainly RNA-seq,scRNA-seq).In last year my main job is to develop biology software,which is predicting dynamic G4 structure(G quadruplex).
   </p>
   <p>
     Before I got my master's degree,I have some programming skills(R,Python and maybe a little C++) and use machine learning models or mathematical models to analyze biological data(R:mlr,glmnet etc;Python:scikit-learn,sklearn,pytorch etc).I also participate in building biological database(flask + jquery or vue).I like to take notes while reading literature,recording the logic or principle of the article.It was a lot of fun in my learning process. Sometimes I will share my learning records or good ideas in the <a href='https://www.jianshu.com/u/ecfc4115cd90'>Jianshu</a> and <a href='https://www.yuque.com/u1629231/qd3xf6'>Yuque</a> (Welcome to discuss with me 😉)
   </p>
   <p>
-     I am better at analyzing NGS data,during the analysis I can combine some mathematical models in the analysis data, the purpose is to better mine the biological story,if results are solid, I prefer to develop biological software for more researchers to use. At last, I share a slogan with all guys(but it is in Chinese): "學問求切實,思辨求翔實".
+     I am good at analyzing NGS data,during the analysis I can combine some mathematical models in the analysis data, the purpose is to better mine the biological story,if results are solid, I prefer to develop biological software for more researchers to use. At last, I share a slogan with all guys(but it is in Chinese): "學問求切實,思辨求翔實".
   </p>
 </font>
 
@@ -54,7 +54,7 @@ torsion reversal model***
 
 + Geng Zou, Lijun He, Jing Rao, Zhiyong Song, Hu Du, **Runze Li**, Wenjing Wang, Yang Zhou, Lu Liang, Huanchun Chen, Jinquan Li. [Improving the safety and efficacy of phage therapy from the perspective of phage-mammal interactions](item_7.md), FEMS Microbiology Reviews (review,2023). **Contribution (Participate): Mathematical simulation of immune system, pathogen and bacteriophage interaction.**
 
-+ Hongfang Wu, Rongxian Chen, Xuejian Li, Yue Zhang, Jianwei Zhang, Yanbo Yang, Jun Wan, Yang Zhou, Huanchun Chen, Jinquan Li, Runze Li, Geng Zou. [ESKtides: a comprehensive database and mining method for ESKAPE phage-derived antimicrobial peptides](item_8.md),Database(2024) **First author and corresponding author**, **Contribution (Person in charge): Writing, maintain database**
++ Hongfang Wu, Rongxian Chen, Xuejian Li, Yue Zhang, Jianwei Zhang, Yanbo Yang, Jun Wan, Yang Zhou, Huanchun Chen, Jinquan Li, **Runze Li**, Geng Zou. [ESKtides: a comprehensive database and mining method for ESKAPE phage-derived antimicrobial peptides](item_8.md),Database(2024) **First author and corresponding author**, **Contribution (Person in charge): Writing, maintain database**
 
 + Software literature: [Efficient lysins mining system based on artificial intelligence method V1.0](item_9.md) **Contribution (Person in charge): Develop software**
 
@@ -74,6 +74,8 @@ Haha!!! Most of the prize money goes to study and travel funds
 + 2018, [International Symposium on Animal Genomics](http://lst.hzau.edu.cn/info/1190/4550.htm) (In group talk,***Thesis: How to build a zebrafish sex reversal model*** )
 + 2019, [Animal Genome and Epigenome Evolution Forum](https://www.sohu.com/a/341272766_739387) (In group talk,***Thesis:Transcriptomic analysis of early sex development in zebrafish***)
 + 2021, HZAU Information College Annual Meeting (Poster,***Thesis: [Using the deep learning model to truly predict the dynamic G4 structures](item_3.md)***)
++ 2023, HZAU Biomedicine and Health College Annual Meeting (Talk, poster, ***Thesis: [Exploring of novel phage drugs](https://biomed.hzau.edu.cn/info/1003/3461.htm)***
++ 2023, (Talk, ***Thesis: [Phage-based mining of novel antimicrobial drugs and development of ESKtides platform](https://mp.weixin.qq.com/s/-EBgIz6UX_sV4xpCljDRfA)***
 
 **Academic community(club)**
 
@@ -107,6 +109,15 @@ Accurate prediction of G4 from a multi-omics perspective based on Bert framework
 **4.Build Devogene Database**
 
 In this project, I am responsible for the construction of the database website, and the analysis content is completed by other colleagues. The repositories is [Devogene](https://github.com/hzaurzli/ddglnc)
+
+**5.Build ESKtides Database**
+ESKtides was designed for data browsing, searching and downloading, which provides a rich peptide library based on ESKAPE prophages and phages. The repositories is [ESKtides](https://github.com/hzaurzli/ESKtides)
+
+**6.Develop DeepLysin**
+The purpose of this software is to provide a simple and efficient tool for mining phage lyase from genomic data, so as to make the process of developing new phage lyase more intelligent and convenient. And this software is mainly for the field of biomedicine, aiming to provide a new protein antibacterial drug - phage lyase rapid discovery tool for research institutions and enterprises in related fields. The repositories is [DeepLysin](https://github.com/hzaurzli/DeepLysin)
+
+**7.Develop MicroWorldOmics**
+MicroworldOmics(a convenient software for microscopic world analysis and visualization), a desktop software developed based on PYQT (version=5), R (version=4.0)，Python (version=3.6) and JavaScript, which aims to make new exploration and contribution to the development of bioinformatics. Realizing data analysis and visualization in the fields of algorithm statistics, sequence analysis, microbiomics , virology,image recognition etc. The repositories is [MicroWorldOmics](https://github.com/hzaurzli/MicroWorldOmics)
 
 
 ## Tips
