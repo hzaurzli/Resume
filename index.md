@@ -39,8 +39,7 @@
 
   + 2019 ~ 2022, Research assistant, College of Life Science and Technology, Huazhong Agricultural University. ***Bioinformatics*** 
   
-  + 2015 ~ 2019, B.S Bioengineering, College of Life Science and Technology, Huazhong Agricultural University. ***Thesis: Establishment of a male zebrafish female 
-torsion reversal model*** 
+  + 2015 ~ 2019, B.S Bioengineering, College of Life Science and Technology, Huazhong Agricultural University. ***Thesis: Establishment of a male zebrafish female torsion reversal model*** 
 
 **Publication**
 
