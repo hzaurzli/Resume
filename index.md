@@ -44,13 +44,19 @@ torsion reversal model***
 
 **Publication**
 
-+ Lu Chen,Li Wang,Qiwei Cheng,Yi-Xuan Tu,Zhuang Yang,**Run-Ze Li**,Zhi-Hui Luo.[Anti-masculinization induced by aromatase inhibitors in adult female zebrafish](item_2.md), BMC Genomics,21,22(2020).
++ Lu Chen,Li Wang,Qiwei Cheng,Yi-Xuan Tu,Zhuang Yang,**Run-Ze Li**,Zhi-Hui Luo.[Anti-masculinization induced by aromatase inhibitors in adult female zebrafish](item_2.md), BMC Genomics,21,22(2020). **Contribution (Participate): Construction of sex reversal model for adult zebrafish.**
 
-+ Zhuang Yang,Zhenhuan Liu,Hang Xu,Yufei Li,Sishu Huang,Guangping Cao,Mengwei Shi,Jinjin Zhu,Junjie Zhou,**Runze Li**,Yuanhao Ding,Yong Xiao,Xianqing Liu,Alisdair R. Fernie,Jie Luo. [ArecaceaeMDB: a comprehensive multi-omics database for Arecaceae breeding and functional genomics studies](item_6.md), Plant Biotechnology Journal(2022).
++ Zhuang Yang,Zhenhuan Liu,Hang Xu,Yufei Li,Sishu Huang,Guangping Cao,Mengwei Shi,Jinjin Zhu,Junjie Zhou,**Runze Li**,Yuanhao Ding,Yong Xiao,Xianqing Liu,Alisdair R. Fernie,Jie Luo. [ArecaceaeMDB: a comprehensive multi-omics database for Arecaceae breeding and functional genomics studies](item_6.md), Plant Biotechnology Journal(2022). **Contribution (Participate): Participate in database construction.**
 
-+ Involvement of ovary-biased developmentally dynamic lncRNA genes in reducing sexual plasticity of adult zebrafish,Lu Chen; Ru Zhang; Yi-Xuan Tu; Ying-Jie Geng; Run-Ze Li; Shan-Shan Yu; Zhuang Yang; Sheng Hu Qian; Jing-Min Zhang; Yonghua Sun; Zhen-Xia Chen(in press, Genome biology)
++ Involvement of ovary-biased developmentally dynamic lncRNA genes in reducing sexual plasticity of adult zebrafish,Lu Chen; Ru Zhang; Yi-Xuan Tu; Ying-Jie Geng; Run-Ze Li; Shan-Shan Yu; Zhuang Yang; Sheng Hu Qian; Jing-Min Zhang; Yonghua Sun; Zhen-Xia Chen (To prepare). **Contribution (Deeply participated): Transcriptome analysis in zebrafish.**
 
 + 陈振夏,陈露,**李润泽**,程奇伟,涂懿璇等,[甾体类化合物或其药学上可接受的盐在促进鱼类的性反转中的应用](item_1.md),中国, 专利号:201811302669.0 **(patent)**
+
++ Geng Zou, Lijun He, Jing Rao, Zhiyong Song, Hu Du, **Runze Li**, Wenjing Wang, Yang Zhou, Lu Liang, Huanchun Chen, Jinquan Li. [Improving the safety and efficacy of phage therapy from the perspective of phage-mammal interactions](item_7.md), FEMS Microbiology Reviews (review,2023). **Contribution (Participate): Mathematical simulation of immune system, pathogen and bacteriophage interaction.**
+
++ Hongfang Wu, Rongxian Chen, Xuejian Li, Yue Zhang, Jianwei Zhang, Yanbo Yang, Jun Wan, Yang Zhou, Huanchun Chen, Jinquan Li, Runze Li, Geng Zou. [ESKtides: a comprehensive database and mining method for ESKAPE phage-derived antimicrobial peptides](item_8.md),Database(2024) **First author and corresponding author**, **Contribution (Person in charge): Writing, maintain database**
+
++ Software literature: [Efficient lysins mining system based on artificial intelligence method V1.0](item_9.md) **Contribution (Person in charge): Develop software**
 
 **Grant**
 
@@ -79,6 +85,7 @@ Haha!!! Most of the prize money goes to study and travel funds
 + Some bioinformatics club's activities(haha,met a lot of friends)
 + [Jianshu](https://www.jianshu.com/u/ecfc4115cd90) Creator
 + **[Chinese Society of Optimization, Overall Planning and Economic Mathematics — Professional Committee Mathematical Modeling and Algorithms](http://www.scope.org.cn/)**. ([Organization member](item_5.md)).
++ [Hiplot expert developer](https://hiplot.com.cn/cloud-tool/hiker-land/2525607?tab=1)
 
   
 ## Research experience
