@@ -53,9 +53,11 @@
 
 + Geng Zou, Lijun He, Jing Rao, Zhiyong Song, Hu Du, **Runze Li**, Wenjing Wang, Yang Zhou, Lu Liang, Huanchun Chen, Jinquan Li. [Improving the safety and efficacy of phage therapy from the perspective of phage-mammal interactions](item_7.md), FEMS Microbiology Reviews (review,2023). **Contribution (Participate): Mathematical simulation of immune system, pathogen and bacteriophage interaction.**
 
-+ Hongfang Wu, Rongxian Chen, Xuejian Li, Yue Zhang, Jianwei Zhang, Yanbo Yang, Jun Wan, Yang Zhou, Huanchun Chen, Jinquan Li, **Runze Li**, Geng Zou. [ESKtides: a comprehensive database and mining method for ESKAPE phage-derived antimicrobial peptides](item_8.md),Database(2024) **First author and corresponding author**, **Contribution (Person in charge): Writing, maintain database**
++ Hongfang Wu, Rongxian Chen, Xuejian Li, Yue Zhang, Jianwei Zhang, Yanbo Yang, Jun Wan, Yang Zhou, Huanchun Chen, Jinquan Li, **Runze Li**, Geng Zou. [ESKtides: a comprehensive database and mining method for ESKAPE phage-derived antimicrobial peptides](item_8.md),Database(2024) **First author and corresponding author**, **Contribution (Lead the project): Writing, maintain database**
 
-+ Software literature: [Efficient lysins mining system based on artificial intelligence method V1.0](item_9.md) **Contribution (Person in charge): Develop software**
++ Software literature: [Efficient lysins mining system based on artificial intelligence method V1.0](item_9.md) **Contribution (Lead the project): Develop software**
+
++ Zhang Y, **Li R**, Zou G, et al. [Discovery of Antimicrobial Lysins from the "Dark Matter" of Uncharacterized Phages Using Artificial Intelligence](item_10.md). Adv Sci (Weinh). Published online June 20, 2024. doi:10.1002/advs.202404049 **First author**, **Contribution (Lead the project): Writing, develop software**
 
 **Grant**
 
