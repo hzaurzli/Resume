@@ -112,12 +112,15 @@ Accurate prediction of G4 from a multi-omics perspective based on Bert framework
 In this project, I am responsible for the construction of the database website, and the analysis content is completed by other colleagues. The repositories is [Devogene](https://github.com/hzaurzli/ddglnc)
 
 **5.Build ESKtides Database**
+
 ESKtides was designed for data browsing, searching and downloading, which provides a rich peptide library based on ESKAPE prophages and phages. The repositories is [ESKtides](https://github.com/hzaurzli/ESKtides)
 
 **6.Develop DeepLysin**
+
 The purpose of this software is to provide a simple and efficient tool for mining phage lyase from genomic data, so as to make the process of developing new phage lyase more intelligent and convenient. And this software is mainly for the field of biomedicine, aiming to provide a new protein antibacterial drug - phage lyase rapid discovery tool for research institutions and enterprises in related fields. The repositories is [DeepLysin](https://github.com/hzaurzli/DeepLysin)
 
 **7.Develop MicroWorldOmics**
+
 MicroworldOmics(a convenient software for microscopic world analysis and visualization), a desktop software developed based on PYQT (version=5), R (version=4.0)，Python (version=3.6) and JavaScript, which aims to make new exploration and contribution to the development of bioinformatics. Realizing data analysis and visualization in the fields of algorithm statistics, sequence analysis, microbiomics , virology,image recognition etc. The repositories is [MicroWorldOmics](https://github.com/hzaurzli/MicroWorldOmics)
 
 
