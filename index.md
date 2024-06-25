@@ -80,6 +80,7 @@ Haha!!! Most of the prize money goes to study and travel funds
 
 **Academic community(club)**
 
++ [Hiplot expert developer](https://hiplot.com.cn/cloud-tool/hiker-land/2525607?tab=1)
 + Club: play with R **Translation：Discovering statistics using R**
 + Club: play with R **Translation：[R and meta analysis](item_4.md)**
 + Club: play with R **Translation：R and structural equation**
@@ -88,7 +89,6 @@ Haha!!! Most of the prize money goes to study and travel funds
 + Some bioinformatics club's activities(haha,met a lot of friends)
 + [Jianshu](https://www.jianshu.com/u/ecfc4115cd90) Creator
 + **[Chinese Society of Optimization, Overall Planning and Economic Mathematics — Professional Committee Mathematical Modeling and Algorithms](http://www.scope.org.cn/)**. ([Organization member](item_5.md)).
-+ [Hiplot expert developer](https://hiplot.com.cn/cloud-tool/hiker-land/2525607?tab=1)
 
   
 ## Research experience
