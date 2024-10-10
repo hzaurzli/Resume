@@ -1,12 +1,13 @@
-# Article
+# Software copyright
 <div align=center>
-  <img src="https://github.com/hzaurzli/Resume/assets/47686371/eae92a38-0422-405e-a968-950c300759e5">
+  <img src="https://github.com/user-attachments/assets/363cf37c-20aa-4537-8a22-7a4f1a697061">
 </div>
 <br>
+![image](https://github.com/user-attachments/assets/0a3f7f95-4f5d-4f93-90be-09111862f6ba)
 
 <font size=3>
   <p>
-    Abstract: The rapid rise of antibiotic resistance and slow discovery of new antibiotics have threatened global health. While novel phage lysins have emerged as potential antibacterial agents, experimental screening methods for novel lysins pose significant challenges due to the enormous workload. Here, the first unified software package, namely DeepLysin, is developed to employ artificial intelligence for mining the vast genome reservoirs (“dark matter”) for novel antibacterial phage lysins. Putative lysins are computationally screened from uncharacterized Staphylococcus aureus phages and 17 novel lysins are randomly selected for experimental validation. Seven candidates exhibit excellent in vitro antibacterial activity, with LLysSA9 exceeding that of the best-in-class alternative. The efficacy of LLysSA9 is further demonstrated in mouse bloodstream and wound infection models. Therefore, this study demonstrates the potential of integrating computational and experimental approaches to expedite the discovery of new antibacterial proteins for combating increasing antimicrobial resistance.
+    Convenient, concise bioinformatics tools for exploring MicroWorld !!! The production of a large number of high-throughput sequencing data in the fields of ecology, medicine and pharmacy has made data analysis and interpretation increasingly complicated. However, the microbiome and viriome field still lacks a convenient and unprogrammed desktop application to comprehensively analyze microbiome and viriome data, especially in viriome analysis and "dark matter" exploration. Therefore, a plug-in development model of desktop service MicroWorldOmics is proposed to provide a convenient one-stop desktop analysis application for life science and biomedical fields.
   </p>
 </font>
 
