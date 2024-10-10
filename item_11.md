@@ -3,7 +3,6 @@
   <img src="https://github.com/user-attachments/assets/363cf37c-20aa-4537-8a22-7a4f1a697061">
 </div>
 <br>
-![image](https://github.com/user-attachments/assets/0a3f7f95-4f5d-4f93-90be-09111862f6ba)
 
 <font size=3>
   <p>
