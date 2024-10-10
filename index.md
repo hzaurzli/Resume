@@ -60,8 +60,7 @@
 + Zhang Y, **Li R**, Zou G, et al. [Discovery of Antimicrobial Lysins from the "Dark Matter" of Uncharacterized Phages Using Artificial Intelligence](item_10.md). Adv Sci (Weinh). Published online June 20, 2024. doi:10.1002/advs.202404049 **First author**, **Contribution (Lead the project): Writing, develop software**
 
 + Software literature: [Bioinformatics integrated analysis interface software for microbiome and viriome V1.3](item_11.md) **Contribution (Lead the project): Develop software**
-
-+ 
+  
 
 **Grant**
 
