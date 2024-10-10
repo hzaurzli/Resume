@@ -79,7 +79,8 @@ Haha!!! Most of the prize money goes to study and travel funds
 + 2019, [Animal Genome and Epigenome Evolution Forum](https://www.sohu.com/a/341272766_739387) (In group talk,***Thesis:Transcriptomic analysis of early sex development in zebrafish***)
 + 2021, HZAU Information College Annual Meeting (Poster,***Thesis: [Using the deep learning model to truly predict the dynamic G4 structures](item_3.md)***)
 + 2023, HZAU Biomedicine and Health College Annual Meeting (Talk, poster, ***Thesis: [Exploring of novel phage drugs](https://biomed.hzau.edu.cn/info/1003/3461.htm)***)
-+ 2023, (Talk, ***Thesis: [Phage-based mining of novel antimicrobial drugs and development of ESKtides platform](https://mp.weixin.qq.com/s/-EBgIz6UX_sV4xpCljDRfA)***)
++ 2023, The first bioinformation "industry-university-research medical" seminar (Talk, ***Thesis: [Phage-based mining of novel antimicrobial drugs and development of ESKtides platform](https://mp.weixin.qq.com/s/-EBgIz6UX_sV4xpCljDRfA)***)
++ 2024, The 7th Hubei Province Bioinformatics Young Scholars Forum (Talk, ***Thesis: [Intelligent manufacturing of lysin and development of one-stop interface application MicroWorldOmics](http://hbbioinfor.org.cn/?p=1257)***)
 
 **Academic community(club)**
 
