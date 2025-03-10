@@ -1,4 +1,4 @@
-# Grant
+# Software copyright
 <div align=center>
   <img src="https://github.com/user-attachments/assets/22903ada-4eeb-4a4c-a061-3c4472af519b">
 </div>
