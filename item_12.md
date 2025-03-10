@@ -1,6 +1,6 @@
 # Grant
 <div align=center>
-  <img src="https://github.com/user-attachments/assets/21a07c76-eeda-46e2-b6a2-010e719f8ece">
+  <img src="https://github.com/user-attachments/assets/aa960132-b1f7-406f-a62d-0d70abb1c2f3">
 </div>
 <br>
 
