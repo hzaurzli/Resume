@@ -1,12 +1,6 @@
-# Software copyright
+# Grant
 <div align=center>
-  <img src="https://github.com/user-attachments/assets/f5dae125-c286-46e7-bf19-3d6e81a8f009">
+  <img src="https://user-images.githubusercontent.com/47686371/153543650-4d8e18c1-dcb8-41b9-8d71-99d45cd694d9.png">
 </div>
 <br>
-
-<font size=3>
-  <p>
-    DeepLysin, easy and fast digging lysin from phages and prophages.
-  </p>
-</font>
 
