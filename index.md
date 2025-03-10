@@ -70,6 +70,7 @@
 + 2019-2020 Scholarship(First prize)
 + 2020-2021 Scholarship(Third prize)
 + 2021-2022 Scholarship(Second prize)
++ 2024 [Young Elite Scientists Sponsorship Program by CAST--PhD project](item_10.md)
 
 Haha!!! Most of the prize money goes to study and travel funds
 
@@ -93,11 +94,10 @@ Haha!!! Most of the prize money goes to study and travel funds
 + Some bioinformatics club's activities(haha,met a lot of friends)
 + [Jianshu](https://www.jianshu.com/u/ecfc4115cd90) Creator
 + **[Chinese Society of Optimization, Overall Planning and Economic Mathematics — Professional Committee Mathematical Modeling and Algorithms](http://www.scope.org.cn/)**. ([Organization member](item_5.md)).
++ The Genetics Society of China,member
 
   
 ## Research experience
-![](https://user-images.githubusercontent.com/47686371/153610012-797929c9-3e6f-425d-8a4d-6e2b85bdaa5a.jpg)
-
 
 **1.Construction of a zebrafish sex reversal model**
 
