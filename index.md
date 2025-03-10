@@ -70,7 +70,7 @@
 + 2019-2020 Scholarship(First prize)
 + 2020-2021 Scholarship(Third prize)
 + 2021-2022 Scholarship(Second prize)
-+ 2024 [Young Elite Scientists Sponsorship Program by CAST--PhD project](item_10.md)
++ 2024 [Young Elite Scientists Sponsorship Program by CAST--PhD project](item_12.md)
 
 Haha!!! Most of the prize money goes to study and travel funds
 
