@@ -74,6 +74,9 @@
 
 Haha!!! Most of the prize money goes to study and travel funds
 
+**About journals**
++ [Nucleic acid research reviewer](item_13.md)
+
 **Presentation**
 
 + 2018, [International Symposium on Animal Genomics](http://lst.hzau.edu.cn/info/1190/4550.htm) (In group talk,***Thesis: How to build a zebrafish sex reversal model*** )
