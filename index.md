@@ -35,7 +35,7 @@
 
   + 2022 ~ Now, PhD candidate (Successive postgraduate and doctoral programs of study), College of Biomedicine and Health, Huazhong Agricultural University.
   
-  + 2022.6 ~ 2022.9, Visiting scholar, Collaborate with: [@HuanFan](http://fanhuan.github.io/), XTBG(XiShuangBanNa Tropical Botanical Garden).
+  + 2022.6 ~ 2022.9, Visiting scholar, Collaborate with: [@HuanFan](http://fanhuan.github.io/), XTBG (XiShuangBanNa Tropical Botanical Garden).
 
   + 2019 ~ 2022, Research assistant, College of Life Science and Technology, Huazhong Agricultural University. ***Bioinformatics*** 
   
