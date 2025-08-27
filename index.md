@@ -4,7 +4,7 @@
 </div>
 <br>
 
-* **Chinese name:** 李润泽(Run-ze Li)
+* **Chinese name:** 李润泽 (Run-ze Li)
 
 * **English name:** David Li
 
